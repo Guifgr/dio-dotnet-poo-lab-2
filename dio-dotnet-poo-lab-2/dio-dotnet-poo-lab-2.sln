@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dio-dotnet-poo-lab-2", "dio-dotnet-poo-lab-2.csproj", "{22A13031-38EA-4FFC-BE76-428C9CFBB442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A13031-38EA-4FFC-BE76-428C9CFBB442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A13031-38EA-4FFC-BE76-428C9CFBB442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A13031-38EA-4FFC-BE76-428C9CFBB442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A13031-38EA-4FFC-BE76-428C9CFBB442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
